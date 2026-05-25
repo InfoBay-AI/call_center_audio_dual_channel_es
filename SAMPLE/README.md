@@ -1,4 +1,4 @@
-These MP3 audio files contain a sample of the complete dataset corpus and are provided for preview, evaluation, testing, and research purposes. The files are structured in compressed MP3 format for efficient storage, faster downloads, and compatibility across AI/ML, speech, and audio analytics workflows.
+These WAV and MP3 audio files contain a sample of the complete dataset corpus and are provided for preview, evaluation, testing, and research purposes. The files are structured in compressed MP3 format for efficient storage, faster downloads, and compatibility across AI/ML, speech, and audio analytics workflows.
 
 Please note that the uploaded files do not represent the full dataset collection. They include only a limited portion of the overall corpus intended to demonstrate the dataset structure, audio quality, and content coverage.
 
